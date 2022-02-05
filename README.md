@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/MatthieuZuel/nft-preview-card-component-main.git)
-- Live Site URL: [Live Site](https://nft-preview-card.netlify.app)
+- Live Site URL: [Live Site](https://matt-frontend-mentor.netlify.app/)
 
 ## My process
 
